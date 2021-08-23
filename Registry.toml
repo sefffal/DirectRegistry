@@ -5,3 +5,4 @@ description = ""
 
 [packages]
 d0ffc639-4e6f-47d5-8eab-0368fa958583 = { name = "DirectImages", path = "D/DirectImages" }
+e969fe19-5388-4377-ad0e-889377a5e1a0 = { name = "DirectOrbits", path = "D/DirectOrbits" }
