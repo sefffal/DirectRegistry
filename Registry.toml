@@ -1,0 +1,6 @@
+name = "DirectRegistry"
+uuid = "22c22277-0986-4687-925d-fd389cbfda78"
+repo = "https://github.com/sefffal/DirectRegistry.git"
+description = ""
+
+[packages]
