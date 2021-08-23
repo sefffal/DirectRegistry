@@ -4,3 +4,4 @@ repo = "https://github.com/sefffal/DirectRegistry.git"
 description = ""
 
 [packages]
+d0ffc639-4e6f-47d5-8eab-0368fa958583 = { name = "DirectImages", path = "D/DirectImages" }
