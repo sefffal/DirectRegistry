@@ -36,6 +36,13 @@ AbstractMCMC = "80f14c24-f653-4e6a-9b94-39d6b0f70001"
 Bijectors = "76274a88-744f-5084-9051-94815aaf08c4"
 MCMCTempering = "ce233488-44ea-4441-b732-192676ce2298"
 
+["0.4"]
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+
 ["0.4-0"]
 BasicInterpolators = "26cce99e-4866-4b6d-ab74-862489e035e0"
-Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+
+["0.5-0"]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+TypedTables = "9d95f2ec-7b3d-5a63-8d20-e2491e220bb9"
