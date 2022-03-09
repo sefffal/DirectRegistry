@@ -35,7 +35,6 @@ BasicInterpolators = "0.6"
 ComponentArrays = "0.11"
 DataDeps = "0.7"
 DirectImages = "0.3"
-DirectOrbits = "0.4"
 Distributions = "0.25"
 FITSIO = "0.16"
 ForwardDiff = "0.10"
@@ -49,3 +48,9 @@ RuntimeGeneratedFunctions = "0.5"
 StaticArrays = "1.2.0-1"
 StatsBase = "0.33"
 Tables = "1.6.0-1"
+
+["0.5.0"]
+DirectOrbits = "0.4"
+
+["0.5.1-0"]
+DirectOrbits = "0.5"
